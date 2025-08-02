@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "legarage360", "legarage360.csproj", "{711A94A9-7AE0-44BB-B914-E4C253252C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711A94A9-7AE0-44BB-B914-E4C253252C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711A94A9-7AE0-44BB-B914-E4C253252C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711A94A9-7AE0-44BB-B914-E4C253252C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711A94A9-7AE0-44BB-B914-E4C253252C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
