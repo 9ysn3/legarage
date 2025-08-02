@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/legarage360/.vs/legarage360/config/applicationhost.config
+/legarage360/.vs/legarage360/FileContentIndex
+/legarage360/.vs/legarage360/DesignTimeBuild
+/legarage360/.vs/legarage360/v17/.suo
+*.json
+/legarage360/.vs/legarage360/v17/DocumentLayout.json
+/legarage360/bin/Debug/net8.0
