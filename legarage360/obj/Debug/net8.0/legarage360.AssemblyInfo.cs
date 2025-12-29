@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("legarage360")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da403977ad591cefbf0c0c5265873478abb24858")]
 [assembly: System.Reflection.AssemblyProductAttribute("legarage360")]
 [assembly: System.Reflection.AssemblyTitleAttribute("legarage360")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

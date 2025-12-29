@@ -1,0 +1,22 @@
+﻿@model List<GarageViewModel>
+
+
+@if(Model.Any()){
+    foreach (var item in Model)
+    {
+        string s = "myname ";
+        <div>
+            This is my Garage page  @item.Name
+            <p>
+                @item.Description
+            </p>
+            <img src="@item.Img" />
+            @s
+        </div>
+    }
+    }
+
+
+
+
+
